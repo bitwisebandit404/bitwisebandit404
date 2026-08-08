@@ -30,7 +30,7 @@ $ whoami
 > poking at systems, reading RFCs at midnight, and slowly making sense of  
 > how the internet doesn't fall apart.
 
-Currently learning: `networking` · `Linux internals` · `ethical hacking` · `CTFs`
+Currently learning: `Networking` · `Linux internals` · `Ethical Hacking` · `CTFs`
 
 ---
 
@@ -79,7 +79,7 @@ $ cat /etc/motd
 
 > This profile is a work in progress — like all good exploits, it's being  
 > refined quietly in the background. Star something if it helped you.  
-> Open an issue if something's broken. Feel free to say hi.
+> Open an issue if something's broken. Feel free to say hi. 
 
 ---
 
